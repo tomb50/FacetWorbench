@@ -1,0 +1,4 @@
+# Project exclude paths
+/languages/FacetWorkbench/classes_gen/
+/languages/FacetWorkbench/generator/classes_gen/
+/languages/FacetWorkbench/sandbox/classes_gen/
